@@ -36,3 +36,6 @@ A link to a demo of the application will be provided below. I invite you to expl
 To evaluate my other work, please check out my previous chat application. A link to this project will be provided below.
 (https://github.com/eth-developer03/Chatapp)
 I have deployed this App on Internet (here is the link):- (https://chatapp-39919.web.app/)
+
+## DEMO VIDEOS
+https://github.com/eth-developer03/BrainWave-Chatapp/assets/142502852/6a381b7c-b88b-4f2b-ab5c-767e6019aa25
