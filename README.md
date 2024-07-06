@@ -39,3 +39,6 @@ I have deployed this App on Internet (here is the link):- (https://chatapp-39919
 
 ## DEMO VIDEOS
 https://github.com/eth-developer03/BrainWave-Chatapp/assets/142502852/6a381b7c-b88b-4f2b-ab5c-767e6019aa25
+
+# DATABASE
+https://github.com/eth-developer03/BrainWave-Chatapp/assets/142502852/9b49569e-b433-4e67-b198-6896769ee524
