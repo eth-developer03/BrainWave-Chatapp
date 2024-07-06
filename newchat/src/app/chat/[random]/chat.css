@@ -1,0 +1,14 @@
+@media (max-width: 1000px) {
+  /* .cinput {
+    height: 2vh;
+    width: 200px;
+  } */
+  input {
+    height: 2vh;
+    width: 600px;
+  }
+  button {
+    padding: 0;
+    height: auto;
+  }
+}
