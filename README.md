@@ -31,14 +31,10 @@ Welcome to BrainWave, a secure and user-friendly chat application. This project 
 
 A link to a demo of the application will be provided below. I invite you to explore and test the application.
 
-## Previous Projects
-
-To evaluate my other work, please check out my previous chat application. A link to this project will be provided below.
-(https://github.com/eth-developer03/Chatapp)
-I have deployed this App on Internet (here is the link):- (https://chatapp-39919.web.app/)
-
 ## DEMO VIDEOS
+
 https://github.com/eth-developer03/BrainWave-Chatapp/assets/142502852/6a381b7c-b88b-4f2b-ab5c-767e6019aa25
 
 # DATABASE
+
 https://github.com/eth-developer03/BrainWave-Chatapp/assets/142502852/9b49569e-b433-4e67-b198-6896769ee524
