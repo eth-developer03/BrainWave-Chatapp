@@ -1,9 +1,7 @@
 "use client"
-// import Navbar from "@/app/components/Navbar"
-// import Phase1 from "@/app/components/Phase1"
+//Start of the website
 
 import Home from "@/app/components/Home"
-// import home from "@app/"
 function page() {
   return (
 <div>

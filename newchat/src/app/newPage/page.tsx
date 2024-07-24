@@ -27,7 +27,7 @@ const socket=useSocket()!
   const handleAll=async()=>{
       console.log("start");
       
-      const resp=await axios.get("http://localhost:5000/allMentor")
+      const resp=await axios.get("http://localhost:5000/allMentor") // fetching response
       setmentors(resp.data)
       console.log(resp.data);
       
@@ -36,7 +36,7 @@ const socket=useSocket()!
   useEffect(() => {
       handleAll()
   },[])
-    const chatroomId = uuidv4();
+    const chatroomId = uuidv4(); // generating the chatroom url
 
 
 

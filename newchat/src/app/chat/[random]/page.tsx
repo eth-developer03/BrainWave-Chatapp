@@ -124,7 +124,7 @@ console.log(e);
   },[]);
 
 
-
+// Updating to latest Messages
   const updateHeight = () => {
     const element = document.getElementById('chat');
     if (element) {
@@ -135,11 +135,11 @@ console.log(e);
 
   useEffect(() => {
 socket.on("refresh-messages",(d)=>{
-  fetchMessages()
+  fetchMessages() // fetching all messages
 
 })
 
-
+// On Receiving The Messages
     socket.on("receiving-message", (data:any) => {
 
         fetchMessages();
@@ -148,6 +148,7 @@ socket.on("refresh-messages",(d)=>{
 
 
     })
+    //Testing
     socket.on("k",(d)=>{
       console.log("start is from ",d);
       

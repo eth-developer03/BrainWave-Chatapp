@@ -4,7 +4,7 @@ import { io, Socket } from "socket.io-client";
 
 // Define the context type
 interface SocketContextType {
-  socket: Socket | null; // Ensure socket can be null initially
+  socket: Socket | null; 
 }
 
 // Create context with initial value
